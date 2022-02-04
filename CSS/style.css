@@ -1,0 +1,150 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+/***********************AŞAĞI YUKARI BUTONU********************************************/
+.sqr-btn {
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    border-radius: 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.button1 {
+    background-color: rgba(255, 255, 255, 0.541); 
+    color: black; 
+    border: 2px solid rgba(247, 109, 17, 0.678);
+  }
+  .button1:hover {
+    background-color: rgba(247, 109, 17, 0.678);
+    color: white;
+  }
+/*---------------------------------------------------------------------------------*/
+/**/
+/**/
+/*****************************ANASAYFA HAKKIMIZDA BUTONU******************************/
+.new-button {
+    padding: 10px 91px;
+    border-radius: 25px;
+    color: white;
+    text-decoration: none; /*altyazıyı sildik*/
+    -webkit-box-shadow: 9px 0px 8px 5px rgba(255, 255, 255, 0.32); 
+    box-shadow: 9px 0px 8px 5px rgba(255, 255, 255, 0.32);
+}
+.gradient {
+    background: linear-gradient(90deg,rgb(247, 110, 17),rgba(0, 0, 0, 0.712));
+}
+/*---------------------------------------------------------------------------------*/
+/**/
+/**/
+/*****************************SEPETE EKLE********************************************/
+.btn{
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    border-radius: 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button2 {
+    background-color: rgba(255, 255, 255, 0.541); 
+    color: black; 
+    border: 2px solid rgba(247, 109, 17, 0.678);
+  }
+  .button2:hover {
+    background-color: rgba(247, 109, 17, 0.678);
+    color: white;
+  }
+/*-------------------------------------------------------------------------------------*/
+/**/
+/**/
+.home-page {
+    text-decoration: underline overline;
+    color:rgb(247, 110, 17) ;
+    font-family: 'Harry Potter', sans-serif;
+    font-size: 50px;
+    /* margin-left: auto;
+    margin-right: auto;} */
+}
+
+}
+.content {
+    width: 800px;
+    float: left;
+}
+
+.clear {
+    clear: both;
+}
+
+.container {
+    /* margin-top: 0px; */
+    width: 1000px;
+    /* height: auto; */
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    /* yada kısaca aşağıdaki iki satır */
+    /* margin: 0 auto 0 auto; */
+    /* margin: 0 auto; */
+}
+.card1 {
+    width: 100%;
+    float: left;
+    padding: 1%;
+    margin-right: 3%;
+    background-color: none;
+    border-radius: 10px;
+    font-family: 'Harry Potter', sans-serif;
+    text-decoration-color:rgb(105, 105, 105, 0.514);
+}
+.card2 {
+    width: 20%;
+    float: left;
+    padding: 5%;
+    margin-right: 1%;
+    background-color: rgba(105, 105, 105, 0.514);
+    border-radius: 10px;
+}
+.card3 {
+    width: 100%;
+    float: left;
+    /* background   -color: lightslategray; */
+}
+/* .container {
+    height: 300px;
+    width: 300px;
+    padding: 10px;
+    /* margin: 10px; bu satır kutuya çevresel olrak veirir */
+    /* margin-top: 10px; */
+    /* margin-left: 10px; */
+    /* margin-bottom: 10px; */
+    /* margin-right: 10px; */
+    /* float: left; */
+/* } */
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-green {
+    background-color: green;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
